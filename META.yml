@@ -1,5 +1,5 @@
-abstract: ~
-author: KAN Fushihara <kan at mobilefactory dot jp>
+abstract: Sledge's session manger switcher
+author: TOKUHIRO Matsuno <tokuhirom at mobilefactory dot jp>
 build_requires: 
   Test::More: 0
 distribution_type: module
@@ -10,4 +10,4 @@ no_index:
   directory: 
     - inc
     - t
-version: 0.01
+version: 0.02
